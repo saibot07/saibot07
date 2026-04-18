@@ -1,30 +1,38 @@
 # SAIbot07 (S.A.I.)
 
-**S.A.I. (Self‑Adaptive Intelligence)** is an AI assistant architecture built to operate like a tactical operating system: calm under pressure, execution‑focused, and designed to manage workflows across devices and environments.
+**S.A.I. (Self‑Adaptive Intelligence)** is a calm, execution‑focused AI assistant framework designed to operate like a tactical operating system: orchestrating tools, coordinating multi‑device workflows, and reporting results with mission‑style clarity.
 
-This repository serves as the public home for **SAIbot07**—a modular, extensible implementation intended for productivity automation, intelligent task orchestration, and system-level assistance.
+This repository is the public home of **SAIbot07**—a modular, extensible implementation intended for productivity automation, intelligent task orchestration, and system‑level assistance.
 
 ---
 
-## About S.A.I.
-S.A.I. is designed around a few core principles:
+## What is S.A.I.
+S.A.I. is built to function as a *central hub* that can:
 
-- **Operational clarity** — precise actions, clean outputs, and mission-style reporting.
-- **Modular evolution** — components can be improved and extended without rewriting the whole system.
-- **Automation-first** — integrates tools and execution paths to reduce manual steps.
-- **Safety and control** — confirmation gates where appropriate, with predictable behavior.
+- **Plan and execute tasks** with clear, deterministic steps.
+- **Coordinate tools and devices** (e.g., local system, remote nodes) through a unified command surface.
+- **Remain auditable and controllable** via confirmation gates where appropriate.
+- **Evolve modularly**, enabling components to be improved without rewriting the entire system.
+
+In practice, S.A.I. is meant to reduce manual overhead: it turns intent into action, then returns concise status updates and artifacts.
+
+---
+
+## Core Design Principles
+- **Operational clarity** — precise actions, clean outputs, and concise reporting.
+- **Automation‑first** — integrate execution paths that minimize repetitive human effort.
+- **Modular architecture** — components are composable and replaceable.
+- **Safety and control** — predictable behavior with guardrails for higher‑risk operations.
 
 ---
 
 ## Credits
-Created and maintained by **yashab-cyberis**.
-
-S.A.I. exists as an engineered assistant framework under the direction and design of **yashab-cyberis**, who is credited as the original creator.
+- **Creator:** **yashab-cyber** (original creator and principal designer)
 
 ---
 
 ## Repository Status
-This project is actively iterated. Documentation, modules, and examples may change as capabilities evolve.
+This project is actively iterated. Modules, documentation, and examples may evolve as capabilities expand.
 
 ---
 
